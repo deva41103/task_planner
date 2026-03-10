@@ -51,19 +51,7 @@ A robust Flutter application built for health tracking, featuring Google Authent
 
 | Login | Dashboard | Activity Logs |
 | :---: | :---: | :---: |
-| [Screenshot Placeholder] | [Screenshot Placeholder] | [Screenshot Placeholder] |
+| ![Login](assets/screenshots/login.png) | ![Dashboard](assets/screenshots/dashboard.png) | ![Logs](assets/screenshots/logs.png) |
 
-## 📄 Evaluation Checklist
-
-- [x] Google Login (15/15)
-- [x] MVC & GetX Setup (10/10)
-- [x] REST API Integration (10/10)
-- [x] Graph Page (10/10)
-- [x] Lazy Loading (10/10)
-- [x] Countdown Timer (10/10)
-- [x] Animations (10/10)
-- [x] UI Design & Clean Code (10/10)
-- [x] Bonus: Session Persistence (5/5)
-- [x] README (10/10)
-
-**Total Estimated Score: 100/100**
+---
+**Daily Health Tracker - Internship Submission 2026**
